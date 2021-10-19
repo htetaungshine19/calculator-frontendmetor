@@ -1,0 +1,11 @@
+.number_button {
+  background-color: var(--key-bc-2);
+  color: var(--t);
+  margin: 0;
+  font-size: 2rem;
+  border-radius: 5px;
+  border: 0;
+  border-bottom: inset 3px var(--key-shadow-2);
+  cursor: pointer;
+  caret-color: transparent;
+}

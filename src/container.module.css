@@ -1,0 +1,11 @@
+.container {
+  min-width: 300px;
+  min-height: 500px;
+  width: 95vw;
+  height: 95vh;
+  max-width: 600px;
+  max-height: 800px;
+  margin: 20px;
+  padding: 0;
+  background-color: transparent;
+}

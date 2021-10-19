@@ -1,0 +1,16 @@
+.number_show {
+  width: 100%;
+  height: 20%;
+  background-color: var(--screen-bc);
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 10px;
+}
+.number_show_p {
+  color: var(--t);
+  
+  font-size: 3rem;
+  margin-right: 1rem;
+}
